@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Felipe Reis Blog
+locale:           pt-BR
 url:
 
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Felipe Reis
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Trying to be a Fullstack Developer"
   email:
   disqus-shortname:
   twitter: #username

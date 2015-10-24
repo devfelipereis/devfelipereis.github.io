@@ -1,25 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: Sobre
+tags: 
+  - about
+  - Jekyll
+  - theme
+  - responsive
+modified: {}
 comments: true
-image:
-  feature: sample-image-2.jpg
+image: 
+  feature: "sample-image-2.jpg"
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
+published: true
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Este blog tem a intenção de passar conhecimento relacionado a desenvolvimento Web e Mobile. Outros tipos de post poderão surgir também já que este blog é pessoal :p
 
-## Minimal Mistakes is all about:
+## Who am I?
+Felipe Gonçalves dos Reis, 21, natural de Itajubá - MG. É formado em Técnico em Redes de Computadores e Técnico em Informática. Em breve irá cursar superior em Análise e Desenvolvimento de Sistemas pela Unopar.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+Trabalha com desenvolvimento web e mobile em uma empresa focada em soluções aplicadas a dispositivos móveis. Desenvolve soluções utilizando principalemente Javascript, PHP, banco de dados em SQL e NoSQL.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Ainda acha tempo para jogar Dota 2(mid ou sup), estudar a porrada de tutoriais que não para de surgir na net e ainda tomar aquela bela cerveja com os brothers.
+
+\o/

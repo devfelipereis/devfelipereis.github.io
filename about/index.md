@@ -6,11 +6,10 @@ tags:
 modified: {}
 comments: true
 image: 
-  feature: "sample-image-2.jpg"
-  credit: WeGraphics
-  creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
+  feature: "http://wallerz.net/wp-content/uploads/2015/02/1456_dota_2_rubick.jpg"
 published: true
 ---
+
 
 
 

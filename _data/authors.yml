@@ -1,20 +1,11 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+felipe_reis:
+  name: Felipe Reis
+  web: http://devfelipereis.github.io/
+  email: feelipereis7@gmail.com
+  bio: "Trying to be a Fullstack Developer"
+  avatar: https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11665570_706313709496075_6094028903330761416_n.jpg?oh=7d835623318333499940b406f7dfd669&oe=56C225DB
+  twitter: _fgreis
   google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+    plus: 

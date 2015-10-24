@@ -1,9 +1,17 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+excerpt: A minimal Jekyll theme for your blog by designer Michael Rose.
+tags: 
+  - desenvolvimento
+  - programação
+  - php
+  - javascript
+  - html
+  - css
+  - sql
+  - nosql
+image: 
+  feature: "http://wallerz.net/wp-content/uploads/2015/02/1456_dota_2_rubick.jpg"
+published: true
 ---
+

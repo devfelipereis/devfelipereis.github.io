@@ -13,6 +13,7 @@ published: true
 
 
 
+
 Este blog tem a intenção de passar conhecimento relacionado a desenvolvimento Web e Mobile. Outros tipos de post poderão surgir também já que este blog é pessoal :p
 
 ## Who am I?

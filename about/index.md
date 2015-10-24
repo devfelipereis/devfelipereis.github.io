@@ -2,10 +2,7 @@
 layout: page
 title: Sobre
 tags: 
-  - about
-  - Jekyll
-  - theme
-  - responsive
+  - sobre
 modified: {}
 comments: true
 image: 
@@ -14,6 +11,7 @@ image:
   creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
 published: true
 ---
+
 
 
 Este blog tem a intenção de passar conhecimento relacionado a desenvolvimento Web e Mobile. Outros tipos de post poderão surgir também já que este blog é pessoal :p

@@ -11,7 +11,7 @@ tags:
   - sql
   - nosql
 image: 
-  feature: "http://wallerz.net/wp-content/uploads/2015/02/1456_dota_2_rubick.jpg"
+  feature: rubick.jpg
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: A minimal Jekyll theme for your blog by designer Michael Rose.
-tags: 
+excerpt: 
+tags:
   - desenvolvimento
   - programação
   - php
@@ -10,8 +10,7 @@ tags:
   - css
   - sql
   - nosql
-image: 
+image:
   feature: rubick.jpg
 published: true
 ---
-

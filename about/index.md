@@ -1,11 +1,12 @@
 ---
+author: felipe_reis
 layout: page
 title: Sobre
-tags: 
+tags:
   - sobre
 modified: {}
 comments: true
-image: 
+image:
   feature: rubick.jpg
 published: true
 ---

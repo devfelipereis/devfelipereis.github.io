@@ -9,7 +9,7 @@ url:			http://devfelipereis.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -27,8 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Felipe Reis
-  avatar: https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11665570_706313709496075_6094028903330761416_n.jpg?oh=7d835623318333499940b406f7dfd669&oe=56C225DB
-  bio: "Trying to be a Fullstack Developer"
+  avatar: https://www.gravatar.com/avatar/ac88b238075408edec249d74ce7ac6bc
+  bio: "Developer"
   email: feelipereis7@gmail.com
   disqus-shortname: devfelipereis
   twitter: _fgreis #username
